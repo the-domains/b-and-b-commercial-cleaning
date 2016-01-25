@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Honest, Affordable, Professional and Reliable Commercial Cleaning Services]]></title>
         <description><![CDATA[Honest, Affordable, Professional and Reliable Commercial Cleaning Services]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/b-and-b-commercial-cleaning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 20:01:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 20:04:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/b-and-b-commercial-cleaning/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
-            <description><![CDATA[<h1>About Us</h1>]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <description><![CDATA[<article><h1>About Us</h1><p>Luis Batista: (203) 241 4186</p></article>]]></description>
+            <link>https://thegrid.ai/b-and-b-commercial-cleaning/about-us/index.html</link>
             <guid isPermaLink="false">8af4d605-0f61-44ea-9fd7-62719ef211e8</guid>
-            <pubDate>Mon, 25 Jan 2016 20:01:49 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 20:04:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
